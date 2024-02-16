@@ -1,11 +1,5 @@
 # AES_MATLAB
 AES implementation in MATLAB
-
-Author: Jonathan Martinez
-
-Date: November 2016
-
-
 Description:
 
 -    A Matlab implmentation of the Advanced Encryption Standard (AES)
@@ -19,4 +13,3 @@ Description:
     is shared for encryption and decryption.
 To Use:
 -    Run aes_master.m
--   Copyright 2016, Jonathan Martinez
